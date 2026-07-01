@@ -161,6 +161,12 @@ Built practical data visualization and reporting skills using Power BI.
 
 ---
 
+📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gobikaeaswaran&theme=react-dark&bg_color=0D1117&color=00C9A7&line=FF6B6B&point=FFD93D&hide_border=true" width="90%"/>
+</p>
+
 ### 📫 Connect With Me
 
 <p align="center">
