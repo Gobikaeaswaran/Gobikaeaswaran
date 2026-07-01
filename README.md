@@ -125,15 +125,24 @@ Built practical data visualization and reporting skills using Power BI.
 
 🎯 Current Focus
 
-
 🧮 Advanced Data Structures & Algorithms
+
 ☕ Backend Development with Java
+
 ⛓️ Blockchain & Smart Contract Development
+
 🤖 AI-Powered Applications
+
 🏗️ System Design Fundamentals
+
 🧠 Gen-AI & Agentic Systems
+
 📊 Data Analytics & BI
+
 🌐 Full-Stack Web Development
+
+
+📊 GitHub Stats
 ---
 
 ### 📊 GitHub Stats
