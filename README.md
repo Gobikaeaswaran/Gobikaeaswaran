@@ -30,13 +30,17 @@ I'm a B.Tech Artificial Intelligence & Data Science student at **Dr. N.G.P Insti
 
 ### 🏆 Achievements & Recognition
 
-<table>
-<tr><td>🥇</td><td><b>Winner – International Hackathon 360° (2026)</b><br/><i>Transparent Blockchain Ledger with Microgrid Energy Sharing</i> — KPR Institute of Engineering and Technology</td></tr>
-<tr><td>🚀</td><td><b>Innovation Showcase – Project Expo 2026</b><br/><i>AI-Powered Decentralized P2P Renewable Energy Trading</i> — CIT, Coimbatore</td></tr>
-<tr><td>📄</td><td>Research paper presenter — <b>ICRIT 2026</b>, Grace College of Engineering, Thoothukudi</td></tr>
-<tr><td>📄</td><td>Research paper presenter — <b>NCATSM 2026</b>, Karpagam Academy of Higher Education</td></tr>
-<tr><td>🎓</td><td>Honors Program in <b>Blockchain Technology</b> — Dr. N.G.P Institute of Technology <i>(Pursuing)</i></td></tr>
-</table>
+🥇 **Winner – International Hackathon 360° (2026)**
+*Transparent Blockchain Ledger with Microgrid Energy Sharing* — KPR Institute of Engineering and Technology
+
+🚀 **Innovation Showcase – Project Expo 2026**
+*AI-Powered Decentralized P2P Renewable Energy Trading* — CIT, Coimbatore
+
+📄 Research paper presenter — **ICRIT 2026**, Grace College of Engineering, Thoothukudi
+
+📄 Research paper presenter — **NCATSM 2026**, Karpagam Academy of Higher Education
+
+🎓 Honors Program in **Blockchain Technology** — Dr. N.G.P Institute of Technology *(Pursuing)*
 
 ---
 
@@ -156,4 +160,5 @@ Built practical data visualization and reporting skills using Power BI.
 
 <p align="center">
   <i>✨ "Turning data into decisions, and code into trustworthy AI." ✨</i>
+</p>de into trustworthy AI." ✨</i>
 </p>
