@@ -13,6 +13,7 @@
 </div>
 
 <br/>
+<h1 align="center">Hi there, I'm Gobika E 👋</h1>
 
 ### 👩‍💻 About Me
 
