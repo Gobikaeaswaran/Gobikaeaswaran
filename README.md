@@ -123,13 +123,17 @@ Built practical data visualization and reporting skills using Power BI.
 
 ---
 
-### 🎯 Current Focus
+🎯 Current Focus
 
-<img src="https://img.shields.io/badge/Gen--AI%20%26%20Agentic%20Systems-80%25-00C9A7?style=flat-square&labelColor=6C63FF"/><br/>
-<img src="https://img.shields.io/badge/Blockchain%20Development-70%25-FF6B6B?style=flat-square&labelColor=6C63FF"/><br/>
-<img src="https://img.shields.io/badge/Data%20Analytics%20%26%20BI-75%25-FFD93D?style=flat-square&labelColor=6C63FF"/><br/>
-<img src="https://img.shields.io/badge/Full--Stack%20Web%20Dev-90%25-4CAF50?style=flat-square&labelColor=6C63FF"/>
 
+🧮 Advanced Data Structures & Algorithms
+☕ Backend Development with Java
+⛓️ Blockchain & Smart Contract Development
+🤖 AI-Powered Applications
+🏗️ System Design Fundamentals
+🧠 Gen-AI & Agentic Systems
+📊 Data Analytics & BI
+🌐 Full-Stack Web Development
 ---
 
 ### 📊 GitHub Stats
