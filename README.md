@@ -125,6 +125,8 @@ Built practical data visualization and reporting skills using Power BI.
 
 🎯 Current Focus
 
+
+
 🧮 Advanced Data Structures & Algorithms
 
 ☕ Backend Development with Java
@@ -141,6 +143,8 @@ Built practical data visualization and reporting skills using Power BI.
 
 🌐 Full-Stack Web Development
 
+
+📊 GitHub Stats
 
 📊 GitHub Stats
 ---
