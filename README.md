@@ -92,13 +92,13 @@ I'm a B.Tech Artificial Intelligence & Data Science student at **Dr. N.G.P Insti
 #### 🔍 [A Hallucination-Free Gen-AI Pipeline for Verifiable Legacy Search](https://github.com/A-HALLUCINATION-FREE-GEN-AI-PIPELINE-FOR-VERIFIABLE-LEGACY-SEARCH)
 AI-powered Enterprise Search Assistant built with **React, TypeScript, FastAPI & Python**, using a Hybrid RAG pipeline with citation-based responses and hallucination verification for trustworthy AI answers.
 
-#### 🔗 LinkShrink AI — URL Shortener with Analytics
+#### 🔗 LinkShrink AI — URL Shortener with Analytics(https://github.com/URL-Shortener-with-Analytics)
 Full-stack app (**React, Node.js, Express.js, MongoDB**) with QR code generation, click/device/location analytics, and secure authentication.
 
-#### 🔒 Finger Print Voting Machine
+#### 🔒 Finger Print Voting Machine(https://github.com/Fingerprint-voting-system)
 Biometric fingerprint-based voting system preventing duplicate voting and impersonation for secure, reliable elections.
 
-#### ⛓️ Blockchain-Based Supply Chain Management
+#### ⛓️ Blockchain-Based Supply Chain Management(https://github.com/Blockchain-based-supplychain)
 Transparent, tamper-proof product tracking system using smart contracts to reduce fraud and improve traceability.
 
 ---
