@@ -144,7 +144,6 @@ Built practical data visualization and reporting skills using Power BI.
 🌐 Full-Stack Web Development
 
 
-📊 GitHub Stats
 
 📊 GitHub Stats
 ---
