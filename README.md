@@ -153,12 +153,12 @@ Built practical data visualization and reporting skills using Power BI.
   <a href="mailto:gobikaeaswaran30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/📞_9342648279-25D366?style=for-the-badge&labelColor=6C63FF" />
 </p>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:00C9A7,100:6C63FF&height=120&section=footer" width="100%"/>
 </div>
-
 <p align="center">
-  <i>✨ "Turning data into decisions, and code into trustworthy AI." ✨</i>
-</p>de into trustworthy AI." ✨</i>
+  <i>"Building scalable AI systems, solving meaningful problems, and continuously learning."</i>
+</p>
+<p align="center">
+  ⭐ If you like my work, consider starring my repositories!
 </p>
