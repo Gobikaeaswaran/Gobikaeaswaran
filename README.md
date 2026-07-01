@@ -1,3 +1,4 @@
+<h1 align="center">Hi there, I'm Gobika E 👋</h1>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C9A7,100:FF6B6B&height=220&section=header&text=Gobika%20E&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%7C%20Blockchain%20%7C%20Gen-AI%20Builder&descAlignY=55&descSize=18" width="100%"/>
@@ -13,7 +14,6 @@
 </div>
 
 <br/>
-<h1 align="center">Hi there, I'm Gobika E 👋</h1>
 
 ### 👩‍💻 About Me
 
