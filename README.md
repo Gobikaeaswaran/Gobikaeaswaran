@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gobika E </h1>
-<div align="center">
+
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C9A7,100:FF6B6B&height=220&section=header&text=Gobika%20E&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%7C%20Blockchain%20%7C%20Gen-AI%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
@@ -86,28 +87,23 @@ I'm a B.Tech Artificial Intelligence & Data Science student at **Dr. N.G.P Insti
 </p>
 
 ---
-🚀 Featured Projects
 
+### 🚀 Featured Projects
 
-🚀 Featured Projects
+#### 🔍 [A Hallucination-Free Gen-AI Pipeline for Verifiable Legacy Search](https://github.com/Gobikaeaswaran/A-HALLUCINATION-FREE-GEN-AI-PIPELINE-FOR-VERIFIABLE-LEGACY-SEARCH)
+AI-powered Enterprise Search Assistant built with **React, TypeScript, FastAPI & Python**, using a Hybrid RAG pipeline with citation-based responses and hallucination verification for trustworthy AI answers.
 
-🔍 A Hallucination-Free Gen-AI Pipeline for Verifiable Legacy Search
+#### 🔗 [URL Shortener with Analytics](https://github.com/Gobikaeaswaran/URL-Shortener-with-Analytics)
+Full-stack app (**React, Node.js, Express.js, MongoDB**) with QR code generation, click/device/location analytics, and secure authentication.
 
-AI-powered Enterprise Search Assistant built with React, TypeScript, FastAPI & Python, using a Hybrid RAG pipeline with citation-based responses and hallucination verification for trustworthy AI answers.
-
-🔗 URL Shortener with Analytics
-
-Full-stack app (React, Node.js, Express.js, MongoDB) with QR code generation, click/device/location analytics, and secure authentication.
-
-🔒 Fingerprint Voting System
-
+#### 🔒 [Fingerprint Voting System](https://github.com/Gobikaeaswaran/Fingerprint-voting-system)
 Biometric fingerprint-based voting system preventing duplicate voting and impersonation for secure, reliable elections.
 
-⛓️ Blockchain Based Supply Chain
-
+#### ⛓️ [Blockchain Based Supply Chain](https://github.com/Gobikaeaswaran/Blockchain-based-supplychain)
 Transparent, tamper-proof product tracking system using smart contracts to reduce fraud and improve traceability.
 
 ---
+
 ### 💼 Experience
 
 **Elevance Skills** — *Natural Language Processing Intern* (2026)
@@ -128,29 +124,17 @@ Built practical data visualization and reporting skills using Power BI.
 
 ---
 
-🎯 Current Focus
+### 🎯 Current Focus
 
+- 🧮 Advanced Data Structures & Algorithms
+- ☕ Backend Development with Java
+- ⛓️ Blockchain & Smart Contract Development
+- 🤖 AI-Powered Applications
+- 🏗️ System Design Fundamentals
+- 🧠 Gen-AI & Agentic Systems
+- 📊 Data Analytics & BI
+- 🌐 Full-Stack Web Development
 
-
-🧮 Advanced Data Structures & Algorithms
-
-☕ Backend Development with Java
-
-⛓️ Blockchain & Smart Contract Development
-
-🤖 AI-Powered Applications
-
-🏗️ System Design Fundamentals
-
-🧠 Gen-AI & Agentic Systems
-
-📊 Data Analytics & BI
-
-🌐 Full-Stack Web Development
-
-
-
-📊 GitHub Stats
 ---
 
 ### 📊 GitHub Stats
@@ -166,11 +150,13 @@ Built practical data visualization and reporting skills using Power BI.
 
 ---
 
-📈 Contribution Graph
+### 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gobikaeaswaran&theme=react-dark&bg_color=0D1117&color=00C9A7&line=FF6B6B&point=FFD93D&hide_border=true" width="90%"/>
 </p>
+
+---
 
 ### 📫 Connect With Me
 
@@ -180,12 +166,15 @@ Built practical data visualization and reporting skills using Power BI.
   <a href="mailto:gobikaeaswaran30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/📞_9342648279-25D366?style=for-the-badge&labelColor=6C63FF" />
 </p>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:00C9A7,100:6C63FF&height=120&section=footer" width="100%"/>
 </div>
+
 <p align="center">
   <i>"Building scalable AI systems, solving meaningful problems, and continuously learning."</i>
 </p>
+
 <p align="center">
   ⭐ If you like my work, consider starring my repositories!
 </p>
