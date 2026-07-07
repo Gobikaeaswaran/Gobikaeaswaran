@@ -88,6 +88,9 @@ I'm a B.Tech Artificial Intelligence & Data Science student at **Dr. N.G.P Insti
 ---
 🚀 Featured Projects
 
+
+🚀 Featured Projects
+
 🔍 A Hallucination-Free Gen-AI Pipeline for Verifiable Legacy Search
 
 AI-powered Enterprise Search Assistant built with React, TypeScript, FastAPI & Python, using a Hybrid RAG pipeline with citation-based responses and hallucination verification for trustworthy AI answers.
@@ -104,6 +107,7 @@ Biometric fingerprint-based voting system preventing duplicate voting and impers
 
 Transparent, tamper-proof product tracking system using smart contracts to reduce fraud and improve traceability.
 
+---
 ### 💼 Experience
 
 **Elevance Skills** — *Natural Language Processing Intern* (2026)
