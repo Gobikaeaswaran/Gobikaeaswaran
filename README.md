@@ -37,11 +37,14 @@ I'm a B.Tech Artificial Intelligence & Data Science student at **Dr. N.G.P Insti
 🚀 **Innovation Showcase – Project Expo 2026**
 *AI-Powered Decentralized P2P Renewable Energy Trading* — CIT, Coimbatore
 
-📄 Research paper presenter — **ICRIT 2026**, Grace College of Engineering, Thoothukudi
+🎓 Honors in Blockchain Technology (2026)
+Successfully completed the Honors Program in Blockchain Technology at Dr. N.G.P. Institute of Technology.
 
-📄 Research paper presenter — **NCATSM 2026**, Karpagam Academy of Higher Education
+📄 Research Paper Presenter
 
-🎓 Honors Program in **Blockchain Technology** — Dr. N.G.P Institute of Technology *(Pursuing)*
+
+Presented paper at ICRIT 2026, Grace College of Engineering, Thoothukudi.
+Presented paper at NCATSM 2026, Karpagam Academy of Higher Education, Coimbatore.
 
 ---
 
