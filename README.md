@@ -86,22 +86,23 @@ I'm a B.Tech Artificial Intelligence & Data Science student at **Dr. N.G.P Insti
 </p>
 
 ---
+🚀 Featured Projects
 
-### 🚀 Featured Projects
+🔍 A Hallucination-Free Gen-AI Pipeline for Verifiable Legacy Search
 
-#### 🔍 https://github.com/Gobikaeaswaran/A-HALLUCINATION-FREE-GEN-AI-PIPELINE-FOR-VERIFIABLE-LEGACY-SEARCH
-AI-powered Enterprise Search Assistant built with **React, TypeScript, FastAPI & Python**, using a Hybrid RAG pipeline with citation-based responses and hallucination verification for trustworthy AI answers.
+AI-powered Enterprise Search Assistant built with React, TypeScript, FastAPI & Python, using a Hybrid RAG pipeline with citation-based responses and hallucination verification for trustworthy AI answers.
 
-#### 🔗https://github.com/Gobikaeaswaran/URL-Shortener-with-Analytics
-Full-stack app (**React, Node.js, Express.js, MongoDB**) with QR code generation, click/device/location analytics, and secure authentication.
+🔗 URL Shortener with Analytics
 
-#### 🔒 https://github.com/Gobikaeaswaran/Fingerprint-voting-system
+Full-stack app (React, Node.js, Express.js, MongoDB) with QR code generation, click/device/location analytics, and secure authentication.
+
+🔒 Fingerprint Voting System
+
 Biometric fingerprint-based voting system preventing duplicate voting and impersonation for secure, reliable elections.
 
-#### ⛓️https://github.com/Gobikaeaswaran/Blockchain-based-supplychain
-Transparent, tamper-proof product tracking system using smart contracts to reduce fraud and improve traceability.
+⛓️ Blockchain Based Supply Chain
 
----
+Transparent, tamper-proof product tracking system using smart contracts to reduce fraud and improve traceability.
 
 ### 💼 Experience
 
