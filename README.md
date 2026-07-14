@@ -172,9 +172,6 @@ Built practical data visualization and reporting skills using Power BI.
   <a href="mailto:gobikaeaswaran30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/📞_9342648279-25D366?style=for-the-badge&labelColor=6C63FF" />
 </p>
-<div align="center">
-  <img src="banner.png" width="100%"/>
-</div>
 <p align="center">
   <i>"Building scalable AI systems, solving meaningful problems, and continuously learning."</i>
 </p>
