@@ -165,21 +165,19 @@ Built practical data visualization and reporting skills using Power BI.
 
 ### 📫 Connect With Me
 
+
 <p align="center">
   <a href="https://linkedin.com/in/gobika-easwaran" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Gobikaeaswaran" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:gobikaeaswaran30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/📞_9342648279-25D366?style=for-the-badge&labelColor=6C63FF" />
 </p>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:00C9A7,100:6C63FF&height=120&section=footer" width="100%"/>
+  <img src="banner.png" width="100%"/>
 </div>
-
 <p align="center">
   <i>"Building scalable AI systems, solving meaningful problems, and continuously learning."</i>
 </p>
-
 <p align="center">
   ⭐ If you like my work, consider starring my repositories!
 </p>
